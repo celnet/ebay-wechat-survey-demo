@@ -1,2 +1,2 @@
-# salesforce-wechat-survey-demo
-Wechat offcial account survey page demo with data hosted on Salesforce
+# ebay-wechat-survey-demo
+Ebay Wechat offcial account survey page demo with data hosted on Salesforce
